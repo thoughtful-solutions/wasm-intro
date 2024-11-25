@@ -71,4 +71,10 @@ while Java JIT makes aggressive optimizations based on static type guarantees.
 * WASM prioritizes portability and security through abstraction,
    while native formats, such as ELF, optimize for direct hardware/OS integration
 
+# Demonstration
+  
+  [Lab-1](lab-1/README.md)
+  Demonstrates how to create a ```hello world``` program and have it execute
+  against, both on the local OS and in WASM
+
    
